@@ -1,481 +1,481 @@
-disease,year,search_estimated_patients,search_rank,confirm_20level,search_20level
-Albinism,2016,17033,1,1,0
-Osteogenesis Imperfecta,2016,15562,2,1,0
-Hemophilia,2016,11972,3,0,0
-Generalized Myasthenia Gravis,2016,10966,4,0,0
-Amyotrophic Lateral Sclerosis,2016,8144,5,0,0
-Systemic Sclerosis,2016,7942,6,0,0
-Phenylketonuria,2016,5297,7,2,0
-Multiple Sclerosis,2016,2049,8,0,0
-Hepatolenticular Degeneration,2016,1996,9,0,0
-Retinitis Pigmentosa,2016,1747,10,1,0
-Cardiac Ion Channelopathies,2016,1688,11,4,0
-Progressive Muscular Dystrophy,2016,1580,12,0,0
-Sickle Cell Disease,2016,1223,13,5,0
-Retinoblastoma,2016,1056,14,0,0
-Porphyria,2016,1039,15,4,0
-Langerhans Cell Histiocytosis,2016,989,16,0,0
-Autoimmune Insulin Receptopathy,2016,841,17,5,0
-Idiopathic Pulmonary Arterial Hypertension,2016,746,18,0,0
-Glutaric Acidemia Type I,2016,712,19,4,0
-Autoimmune Encephalitis,2016,627,20,0,1
-Laron Syndrome,2016,595,21,3,1
-Neuromyelitis Optica,2016,575,22,0,1
-Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2016,561,23,5,1
-Methylmalonic Acidemia,2016,487,24,0,1
-Mucopolysaccharidosis,2016,466,25,2,1
-Multiple System Atrophy,2016,393,26,0,1
-Paroxysmal Nocturnal Hemoglobinuria,2016,387,27,1,1
-Tuberous Sclerosis Complex,2016,376,28,3,1
-Nonsyndromic Deafness,2016,373,29,4,1
-Congenital Scoliosis,2016,348,30,1,1
-Marfan Syndrome,2016,341,31,1,1
-Mitochondrial Encephalomyopathy,2016,329,32,0,1
-Charcot-Marie-Tooth Disease,2016,320,33,2,1
-Spinal Muscular Atrophy,2016,301,34,1,1
-Gaucher Disease,2016,279,35,3,1
-Atypical Hemolytic Uremic Syndrome,2016,265,36,1,1
-Hypophosphatemic Rickets,2016,232,37,2,1
-Spinal Bulbar Muscular Atrophy,2016,217,38,3,1
-Galactosemia,2016,214,39,5,1
-Alport Syndrome,2016,200,40,2,2
-POEMS Syndrome,2016,193,41,1,2
-Prader-Willi Syndrome,2016,171,42,2,2
-Pulmonary Alveolar Proteinosis,2016,165,43,1,2
-Niemann-Pick Disease,2016,164,44,3,2
-Idiopathic Pulmonary Fibrosis,2016,154,45,0,2
-Castleman Disease,2016,151,46,2,2
-Lymphangioleiomyomatosis,2016,146,47,2,2
-Homozygous Familial Hypercholesterolemia,2016,123,48,2,2
-Primary Combined Immunodeficiency,2016,113,49,2,2
-Peutz-Jeghers Syndrome,2016,105,50,1,2
-X-linked Adrenoleukodystrophy,2016,95,51,3,2
-IgG4 Related Disease,2016,85,52,1,2
-Huntington’s Disease,2016,83,53,3,2
-Fabry Disease,2016,80,54,4,2
-Neonatal Diabetes Mellitus,2016,75,55,2,2
-Myotonic Dystrophy,2016,72,56,3,2
-Spinocerebellar Ataxia,2016,71,57,2,2
-Fanconi Anemia,2016,63,58,3,2
-Angelman Syndrome,2016,62,59,3,2
-Isovaleric Acidemia,2016,49,60,5,3
-Propionic Acidemia,2016,48,61,3,3
-Kallmann Syndrome,2016,47,62,2,3
-Severe Myoclonic Epilepsy in Infancy,2016,44,63,3,3
-Primary Carnitine Deficiency,2016,43,64,3,3
-X-linked Agammaglobulinemia,2016,39,65,2,3
-Glycogen Storage Disease(Type I，II),2016,36,66,2,3
-Congenital Myotonia ,2016,36,67,4,3
-Inborn Errors of Bile Acid Synthesis,2016,34,68,4,3
-Arginase Deficiency,2016,34,69,5,3
-Hereditary Spastic Paraplegia,2016,33,70,2,3
-Citrullinemia,2016,33,71,3,3
-Maple Syrup Urine Disease,2016,32,72,5,3
-Hyperphenylalaninemia,2016,31,73,2,3
-21-Hydroxylase Deficiency,2016,28,74,0,3
-Hereditary Angioedema,2016,25,75,5,3
-Gitelman Syndrome,2016,22,76,3,3
-Multifocal Motor Neuropathy,2016,20,77,2,3
-Pulmonary Cystic Fibrosis,2016,18,78,5,3
-β-Ketothiolase Deficiency,2016,17,79,4,3
-Noonan Syndrome,2016,17,80,4,4
-Congenital Myasthenic Syndrome,2016,14,81,4,4
-Williams Syndrome,2016,11,82,4,4
-Congenital Adrenal Hypoplasia,2016,8,83,4,4
-Erdheim-Chester Disease,2016,8,84,4,4
-"Parkinson’s Disease (Young-onset, Early-onset)",2016,7,85,0,4
-Hereditary Epidermolysis Bullosa,2016,7,86,1,4
-Biotinidase Deficiency,2016,6,87,0,4
-Tetrahydrobiopterin Deficiency,2016,6,88,3,4
-Idiopathic Cardiomyopathy,2016,5,89,1,4
-Leber Hereditary Optic Neuropathy,2016,5,90,1,4
-Wiskott-Aldrich Syndrome,2016,5,91,3,4
-Hypophosphatasia,2016,4,92,5,4
-Idiopathic Hypogonadotropic Hypogonadism,2016,3,93,1,4
-Lysosomal Acid Lipase Deficiency,2016,3,94,5,4
-Ornithine Transcarbamylase Deficiency,2016,3,95,5,4
-Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2016,3,96,5,4
-Diamond-Blackfan Anemia,2016,2,97,1,4
-Autoimmune Hypophysitis,2016,2,98,2,4
-Progressive Familial Intrahepatic Cholestasis,2016,2,99,4,4
-Multiple Acyl-CoA Dehydrogenase Deficiency,2016,2,100,5,5
-Primary Light Chain Amyloidosis,2016,1,101,1,5
-McCune-Albright Syndrome,2016,1,102,2,5
-Sitosterolemia,2016,1,103,4,5
-Familial Mediterranean Fever,2016,1,104,4,5
-Hereditary Fructose Intolerance,2016,1,105,5,5
-N-acetylglutamate Synthase Deficiency,2016,1,106,5,5
-Medium Chain Acyl-CoA Dehydrogenase Deficiency,2016,1,107,5,5
-Holocarboxylase Synthetase Deficiency,2016,0,108,5,5
-Coronary Artery Ectasia,2016,0,109,1,5
-Severe Congenital Neutropenia,2016,0,110,1,5
-Congenital Hyperinsulinemic Hypoglycemia,2016,0,111,3,5
-Hereditary Hypomagnesemia,2016,0,112,3,5
-Primary Hereditary Dystonia,2016,0,113,3,5
-Hereditary Multi-infarct Dementia,2016,0,114,4,5
-Silver-Russell Syndrome,2016,0,115,4,5
-Tyrosinemia,2016,0,116,4,5
-X-linked Lymphoproliferative Disease,2016,0,117,4,5
-Asphyxiating Thoracic Dystrophy,2016,0,118,5,5
-Lysinuric Protein Intolerance,2016,0,119,5,5
-Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2016,0,120,5,5
-Albinism,2017,21588,1,2,0
-Hemophilia,2017,15821,2,0,0
-Generalized Myasthenia Gravis,2017,13583,3,0,0
-Osteogenesis Imperfecta,2017,12565,4,1,0
-Amyotrophic Lateral Sclerosis,2017,10627,5,0,0
-Systemic Sclerosis,2017,9608,6,0,0
-Phenylketonuria,2017,6486,7,2,0
-Hepatolenticular Degeneration,2017,3182,8,0,0
-Retinitis Pigmentosa,2017,2854,9,1,0
-Cardiac Ion Channelopathies,2017,2827,10,3,0
-Multiple Sclerosis,2017,2430,11,0,0
-Progressive Muscular Dystrophy,2017,1944,12,0,0
-Idiopathic Pulmonary Arterial Hypertension,2017,1868,13,0,0
-Porphyria,2017,1866,14,4,0
-Retinoblastoma,2017,1747,15,0,0
-Sickle Cell Disease,2017,1487,16,5,0
-Neuromyelitis Optica,2017,1292,17,0,0
-Autoimmune Encephalitis,2017,1261,18,0,0
-Langerhans Cell Histiocytosis,2017,991,19,0,0
-Glutaric Acidemia Type I,2017,886,20,4,1
-Autoimmune Insulin Receptopathy,2017,830,21,4,1
-Laron Syndrome,2017,740,22,4,1
-Mucopolysaccharidosis,2017,711,23,1,1
-Multiple System Atrophy,2017,659,24,0,1
-Methylmalonic Acidemia,2017,654,25,0,1
-Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2017,605,26,4,1
-Tuberous Sclerosis Complex,2017,517,27,3,1
-Marfan Syndrome,2017,483,28,1,1
-Spinal Muscular Atrophy,2017,464,29,1,1
-Paroxysmal Nocturnal Hemoglobinuria,2017,462,30,0,1
-Gaucher Disease,2017,462,31,3,1
-Mitochondrial Encephalomyopathy,2017,460,32,1,1
-Congenital Scoliosis,2017,445,33,1,1
-Nonsyndromic Deafness,2017,361,34,5,1
-Hypophosphatemic Rickets,2017,334,35,2,1
-Prader-Willi Syndrome,2017,260,36,1,1
-Alport Syndrome,2017,260,37,2,1
-Atypical Hemolytic Uremic Syndrome,2017,258,38,2,1
-Galactosemia,2017,250,39,4,1
-POEMS Syndrome,2017,249,40,1,2
-Spinal Bulbar Muscular Atrophy,2017,234,41,3,2
-Charcot-Marie-Tooth Disease,2017,224,42,2,2
-Lymphangioleiomyomatosis,2017,219,43,3,2
-Niemann-Pick Disease,2017,216,44,3,2
-Pulmonary Alveolar Proteinosis,2017,208,45,1,2
-Idiopathic Pulmonary Fibrosis,2017,184,46,0,2
-Huntington’s Disease,2017,171,47,3,2
-Myotonic Dystrophy,2017,167,48,3,2
-Castleman Disease,2017,166,49,2,2
-Peutz-Jeghers Syndrome,2017,150,50,1,2
-Angelman Syndrome,2017,148,51,3,2
-X-linked Adrenoleukodystrophy,2017,144,52,4,2
-Primary Combined Immunodeficiency,2017,137,53,3,2
-Homozygous Familial Hypercholesterolemia,2017,123,54,2,2
-Fanconi Anemia,2017,109,55,3,2
-Neonatal Diabetes Mellitus,2017,99,56,2,2
-Spinocerebellar Ataxia,2017,98,57,2,2
-Propionic Acidemia,2017,94,58,3,2
-Primary Carnitine Deficiency,2017,84,59,2,2
-Glycogen Storage Disease(Type I，II),2017,79,60,1,3
-Fabry Disease,2017,77,61,3,3
-Hereditary Spastic Paraplegia,2017,73,62,2,3
-Citrullinemia,2017,67,63,3,3
-Kallmann Syndrome,2017,62,64,2,3
-Arginase Deficiency,2017,59,65,5,3
-Hyperphenylalaninemia,2017,55,66,1,3
-Severe Myoclonic Epilepsy in Infancy,2017,49,67,3,3
-Congenital Myotonia ,2017,49,68,4,3
-Hereditary Angioedema,2017,43,69,4,3
-X-linked Agammaglobulinemia,2017,42,70,2,3
-IgG4 Related Disease,2017,41,71,1,3
-21-Hydroxylase Deficiency,2017,39,72,0,3
-Inborn Errors of Bile Acid Synthesis,2017,38,73,4,3
-Isovaleric Acidemia,2017,36,74,4,3
-Maple Syrup Urine Disease,2017,36,75,4,3
-Multifocal Motor Neuropathy,2017,32,76,3,3
-Noonan Syndrome,2017,28,77,3,3
-Williams Syndrome,2017,25,78,5,3
-Pulmonary Cystic Fibrosis,2017,22,79,5,3
-Gitelman Syndrome,2017,21,80,4,4
-Wiskott-Aldrich Syndrome,2017,19,81,3,4
-Hereditary Epidermolysis Bullosa,2017,17,82,1,4
-Multiple Acyl-CoA Dehydrogenase Deficiency,2017,14,83,5,4
-Familial Mediterranean Fever,2017,13,84,5,4
-Tetrahydrobiopterin Deficiency,2017,11,85,3,4
-Medium Chain Acyl-CoA Dehydrogenase Deficiency,2017,11,86,5,4
-"Parkinson’s Disease (Young-onset, Early-onset)",2017,10,87,0,4
-Erdheim-Chester Disease,2017,10,88,4,4
-Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2017,9,89,5,4
-Idiopathic Cardiomyopathy,2017,8,90,1,4
-Sitosterolemia,2017,8,91,5,4
-Biotinidase Deficiency,2017,7,92,0,4
-Idiopathic Hypogonadotropic Hypogonadism,2017,7,93,1,4
-Primary Light Chain Amyloidosis,2017,7,94,2,4
-Congenital Myasthenic Syndrome,2017,7,95,4,4
-Congenital Adrenal Hypoplasia,2017,7,96,4,4
-Leber Hereditary Optic Neuropathy,2017,6,97,2,4
-Diamond-Blackfan Anemia,2017,6,98,2,4
-Progressive Familial Intrahepatic Cholestasis,2017,5,99,4,4
-Ornithine Transcarbamylase Deficiency,2017,4,100,5,5
-Autoimmune Hypophysitis,2017,3,101,1,5
-Lysosomal Acid Lipase Deficiency,2017,3,102,5,5
-Hereditary Hypomagnesemia,2017,1,103,2,5
-β-Ketothiolase Deficiency,2017,1,104,4,5
-Hypophosphatasia,2017,1,105,5,5
-Hereditary Fructose Intolerance,2017,1,106,5,5
-Holocarboxylase Synthetase Deficiency,2017,0,107,5,5
-Coronary Artery Ectasia,2017,0,108,1,5
-Severe Congenital Neutropenia,2017,0,109,1,5
-Congenital Hyperinsulinemic Hypoglycemia,2017,0,110,2,5
-McCune-Albright Syndrome,2017,0,111,2,5
-Hereditary Multi-infarct Dementia,2017,0,112,3,5
-Primary Hereditary Dystonia,2017,0,113,4,5
-X-linked Lymphoproliferative Disease,2017,0,114,4,5
-Silver-Russell Syndrome,2017,0,115,5,5
-Tyrosinemia,2017,0,116,5,5
-N-acetylglutamate Synthase Deficiency,2017,0,117,5,5
-Lysinuric Protein Intolerance,2017,0,118,5,5
-Asphyxiating Thoracic Dystrophy,2017,0,119,5,5
-Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2017,0,120,5,5
-Albinism,2018,21658,1,2,0
-Hemophilia,2018,15445,2,0,0
-Generalized Myasthenia Gravis,2018,14368,3,0,0
-Osteogenesis Imperfecta,2018,9753,4,1,0
-Amyotrophic Lateral Sclerosis,2018,8632,5,0,0
-Systemic Sclerosis,2018,7064,6,0,0
-Phenylketonuria,2018,5608,7,2,0
-Multiple Sclerosis,2018,2391,8,0,0
-Hepatolenticular Degeneration,2018,2251,9,0,0
-Cardiac Ion Channelopathies,2018,1938,10,3,0
-Retinitis Pigmentosa,2018,1917,11,1,0
-Porphyria,2018,1840,12,4,0
-Niemann-Pick Disease,2018,1664,13,3,0
-Autoimmune Encephalitis,2018,1448,14,0,0
-Retinoblastoma,2018,1417,15,0,0
-Neuromyelitis Optica,2018,1376,16,0,0
-Progressive Muscular Dystrophy,2018,1302,17,0,0
-Sickle Cell Disease,2018,1284,18,5,0
-Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2018,841,19,5,0
-Glutaric Acidemia Type I,2018,799,20,4,1
-Langerhans Cell Histiocytosis,2018,798,21,0,1
-Marfan Syndrome,2018,782,22,1,1
-Laron Syndrome,2018,709,23,2,1
-Multiple System Atrophy,2018,604,24,0,1
-Methylmalonic Acidemia,2018,546,25,0,1
-Spinal Muscular Atrophy,2018,517,26,2,1
-Tuberous Sclerosis Complex,2018,510,27,4,1
-Idiopathic Pulmonary Arterial Hypertension,2018,491,28,0,1
-Pulmonary Alveolar Proteinosis,2018,485,29,2,1
-Gaucher Disease,2018,472,30,2,1
-Autoimmune Insulin Receptopathy,2018,466,31,4,1
-Mitochondrial Encephalomyopathy,2018,430,32,0,1
-Nonsyndromic Deafness,2018,414,33,5,1
-Hypophosphatemic Rickets,2018,379,34,3,1
-Mucopolysaccharidosis,2018,367,35,1,1
-Congenital Scoliosis,2018,351,36,1,1
-Paroxysmal Nocturnal Hemoglobinuria,2018,349,37,1,1
-Prader-Willi Syndrome,2018,343,38,1,1
-Angelman Syndrome,2018,340,39,2,1
-Spinal Bulbar Muscular Atrophy,2018,282,40,3,2
-X-linked Adrenoleukodystrophy,2018,269,41,4,2
-Alport Syndrome,2018,262,42,2,2
-Peutz-Jeghers Syndrome,2018,255,43,1,2
-Lymphangioleiomyomatosis,2018,249,44,2,2
-Idiopathic Pulmonary Fibrosis,2018,227,45,0,2
-Atypical Hemolytic Uremic Syndrome,2018,222,46,2,2
-Huntington’s Disease,2018,216,47,3,2
-Charcot-Marie-Tooth Disease,2018,210,48,2,2
-Galactosemia,2018,198,49,5,2
-Castleman Disease,2018,182,50,1,2
-Myotonic Dystrophy,2018,160,51,3,2
-POEMS Syndrome,2018,156,52,1,2
-Kallmann Syndrome,2018,145,53,2,2
-Propionic Acidemia,2018,144,54,3,2
-Homozygous Familial Hypercholesterolemia,2018,139,55,2,2
-Primary Combined Immunodeficiency,2018,124,56,3,2
-Fanconi Anemia,2018,109,57,3,2
-Hereditary Spastic Paraplegia,2018,95,58,2,2
-Glycogen Storage Disease(Type I，II),2018,93,59,1,2
-Noonan Syndrome,2018,93,60,3,3
-Neonatal Diabetes Mellitus,2018,87,61,3,3
-Fabry Disease,2018,78,62,4,3
-Gitelman Syndrome,2018,75,63,3,3
-Isovaleric Acidemia,2018,75,64,5,3
-Primary Carnitine Deficiency,2018,73,65,2,3
-Citrullinemia,2018,70,66,3,3
-Williams Syndrome,2018,65,67,4,3
-Hyperphenylalaninemia,2018,62,68,0,3
-Maple Syrup Urine Disease,2018,51,69,4,3
-21-Hydroxylase Deficiency,2018,50,70,1,3
-Spinocerebellar Ataxia,2018,49,71,1,3
-Hereditary Angioedema,2018,39,72,5,3
-Severe Myoclonic Epilepsy in Infancy,2018,37,73,3,3
-Congenital Myotonia ,2018,37,74,4,3
-Sitosterolemia,2018,33,75,2,3
-Arginase Deficiency,2018,33,76,5,3
-Inborn Errors of Bile Acid Synthesis,2018,31,77,4,3
-Multifocal Motor Neuropathy,2018,28,78,3,3
-X-linked Agammaglobulinemia,2018,26,79,2,3
-IgG4 Related Disease,2018,24,80,1,4
-Ornithine Transcarbamylase Deficiency,2018,23,81,4,4
-Familial Mediterranean Fever,2018,22,82,4,4
-Pulmonary Cystic Fibrosis,2018,21,83,5,4
-Multiple Acyl-CoA Dehydrogenase Deficiency,2018,19,84,5,4
-"Parkinson’s Disease (Young-onset, Early-onset)",2018,15,85,0,4
-Wiskott-Aldrich Syndrome,2018,15,86,3,4
-Congenital Myasthenic Syndrome,2018,13,87,4,4
-Erdheim-Chester Disease,2018,13,88,5,4
-Tetrahydrobiopterin Deficiency,2018,11,89,4,4
-Hypophosphatasia,2018,11,90,4,4
-Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2018,8,91,5,4
-N-acetylglutamate Synthase Deficiency,2018,8,92,5,4
-Diamond-Blackfan Anemia,2018,6,93,2,4
-Medium Chain Acyl-CoA Dehydrogenase Deficiency,2018,6,94,5,4
-Biotinidase Deficiency,2018,5,95,0,4
-Idiopathic Cardiomyopathy,2018,5,96,1,4
-Leber Hereditary Optic Neuropathy,2018,4,97,1,4
-Hereditary Epidermolysis Bullosa,2018,3,98,1,4
-Primary Light Chain Amyloidosis,2018,3,99,2,4
-Autoimmune Hypophysitis,2018,3,100,3,5
-Congenital Adrenal Hypoplasia,2018,3,101,4,5
-Progressive Familial Intrahepatic Cholestasis,2018,3,102,5,5
-Hereditary Fructose Intolerance,2018,3,103,5,5
-Asphyxiating Thoracic Dystrophy,2018,2,104,5,5
-Idiopathic Hypogonadotropic Hypogonadism,2018,1,105,1,5
-Hereditary Hypomagnesemia,2018,1,106,2,5
-Hereditary Multi-infarct Dementia,2018,1,107,3,5
-Lysosomal Acid Lipase Deficiency,2018,1,108,5,5
-Holocarboxylase Synthetase Deficiency,2018,0,109,5,5
-Coronary Artery Ectasia,2018,0,110,1,5
-Severe Congenital Neutropenia,2018,0,111,1,5
-Congenital Hyperinsulinemic Hypoglycemia,2018,0,112,3,5
-McCune-Albright Syndrome,2018,0,113,3,5
-Primary Hereditary Dystonia,2018,0,114,4,5
-X-linked Lymphoproliferative Disease,2018,0,115,4,5
-Silver-Russell Syndrome,2018,0,116,4,5
-β-Ketothiolase Deficiency,2018,0,117,4,5
-Tyrosinemia,2018,0,118,5,5
-Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2018,0,119,5,5
-Lysinuric Protein Intolerance,2018,0,120,5,5
-Albinism,2019,26222,1,1,0
-Hemophilia,2019,17425,2,0,0
-Generalized Myasthenia Gravis,2019,13827,3,0,0
-Osteogenesis Imperfecta,2019,9335,4,1,0
-Amyotrophic Lateral Sclerosis,2019,8605,5,0,0
-Systemic Sclerosis,2019,7923,6,0,0
-Marfan Syndrome,2019,7141,7,2,0
-Phenylketonuria,2019,6777,8,2,0
-Porphyria,2019,3429,9,4,0
-Multiple Sclerosis,2019,2669,10,0,0
-Multiple System Atrophy,2019,2482,11,0,0
-Cardiac Ion Channelopathies,2019,2178,12,3,0
-Hepatolenticular Degeneration,2019,2016,13,0,0
-Retinitis Pigmentosa,2019,1906,14,1,0
-Idiopathic Pulmonary Arterial Hypertension,2019,1794,15,0,0
-Sickle Cell Disease,2019,1718,16,5,0
-Neuromyelitis Optica,2019,1670,17,0,0
-Retinoblastoma,2019,1471,18,0,0
-Progressive Muscular Dystrophy,2019,1456,19,0,0
-Langerhans Cell Histiocytosis,2019,1355,20,0,1
-Autoimmune Encephalitis,2019,1220,21,0,1
-Glutaric Acidemia Type I,2019,923,22,4,1
-Spinal Muscular Atrophy,2019,808,23,1,1
-Laron Syndrome,2019,778,24,1,1
-Gaucher Disease,2019,750,25,3,1
-Methylmalonic Acidemia,2019,697,26,0,1
-Mucopolysaccharidosis,2019,694,27,2,1
-Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2019,650,28,5,1
-Paroxysmal Nocturnal Hemoglobinuria,2019,550,29,0,1
-Autoimmune Insulin Receptopathy,2019,541,30,5,1
-Nonsyndromic Deafness,2019,490,31,5,1
-Tuberous Sclerosis Complex,2019,448,32,3,1
-Mitochondrial Encephalomyopathy,2019,421,33,0,1
-Hypophosphatemic Rickets,2019,417,34,2,1
-Peutz-Jeghers Syndrome,2019,403,35,1,1
-Congenital Scoliosis,2019,400,36,1,1
-Prader-Willi Syndrome,2019,397,37,1,1
-Alport Syndrome,2019,337,38,2,1
-Idiopathic Pulmonary Fibrosis,2019,306,39,0,1
-Galactosemia,2019,297,40,5,2
-Glycogen Storage Disease(Type I，II),2019,291,41,2,2
-Lymphangioleiomyomatosis,2019,255,42,2,2
-Angelman Syndrome,2019,252,43,3,2
-Fanconi Anemia,2019,250,44,3,2
-Spinal Bulbar Muscular Atrophy,2019,235,45,3,2
-Homozygous Familial Hypercholesterolemia,2019,223,46,3,2
-Huntington’s Disease,2019,216,47,3,2
-Pulmonary Alveolar Proteinosis,2019,211,48,1,2
-Atypical Hemolytic Uremic Syndrome,2019,204,49,2,2
-POEMS Syndrome,2019,202,50,1,2
-X-linked Adrenoleukodystrophy,2019,186,51,4,2
-Kallmann Syndrome,2019,173,52,2,2
-Charcot-Marie-Tooth Disease,2019,165,53,1,2
-Primary Combined Immunodeficiency,2019,152,54,1,2
-Castleman Disease,2019,151,55,1,2
-Niemann-Pick Disease,2019,147,56,3,2
-Fabry Disease,2019,120,57,4,2
-Propionic Acidemia,2019,114,58,3,2
-Williams Syndrome,2019,109,59,3,2
-Noonan Syndrome,2019,103,60,3,3
-Citrullinemia,2019,90,61,4,3
-Myotonic Dystrophy,2019,85,62,2,3
-Hereditary Angioedema,2019,84,63,5,3
-Primary Carnitine Deficiency,2019,83,64,2,3
-Neonatal Diabetes Mellitus,2019,82,65,3,3
-Hereditary Spastic Paraplegia,2019,78,66,2,3
-21-Hydroxylase Deficiency,2019,75,67,1,3
-Isovaleric Acidemia,2019,70,68,4,3
-Hyperphenylalaninemia,2019,62,69,1,3
-Congenital Myotonia ,2019,55,70,4,3
-Gitelman Syndrome,2019,54,71,4,3
-Arginase Deficiency,2019,53,72,5,3
-Maple Syrup Urine Disease,2019,50,73,5,3
-Severe Myoclonic Epilepsy in Infancy,2019,46,74,3,3
-IgG4 Related Disease,2019,35,75,0,3
-Pulmonary Cystic Fibrosis,2019,28,76,5,3
-"Parkinson’s Disease (Young-onset, Early-onset)",2019,26,77,0,3
-X-linked Agammaglobulinemia,2019,25,78,2,3
-Inborn Errors of Bile Acid Synthesis,2019,22,79,4,3
-Familial Mediterranean Fever,2019,21,80,4,4
-Idiopathic Cardiomyopathy,2019,17,81,1,4
-Congenital Adrenal Hypoplasia,2019,16,82,4,4
-Spinocerebellar Ataxia,2019,15,83,1,4
-Congenital Myasthenic Syndrome,2019,15,84,4,4
-Multifocal Motor Neuropathy,2019,14,85,3,4
-Hypophosphatasia,2019,13,86,4,4
-Sitosterolemia,2019,12,87,4,4
-Multiple Acyl-CoA Dehydrogenase Deficiency,2019,12,88,4,4
-Diamond-Blackfan Anemia,2019,10,89,2,4
-Progressive Familial Intrahepatic Cholestasis,2019,8,90,4,4
-Erdheim-Chester Disease,2019,7,91,4,4
-Primary Light Chain Amyloidosis,2019,6,92,2,4
-Biotinidase Deficiency,2019,6,93,2,4
-Wiskott-Aldrich Syndrome,2019,6,94,3,4
-Hereditary Epidermolysis Bullosa,2019,5,95,1,4
-Idiopathic Hypogonadotropic Hypogonadism,2019,5,96,1,4
-Autoimmune Hypophysitis,2019,4,97,3,4
-Tetrahydrobiopterin Deficiency,2019,4,98,3,4
-Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2019,4,99,5,4
-Lysosomal Acid Lipase Deficiency,2019,4,100,5,5
-Leber Hereditary Optic Neuropathy,2019,3,101,2,5
-McCune-Albright Syndrome,2019,2,102,3,5
-Hereditary Hypomagnesemia,2019,1,103,2,5
-Hereditary Multi-infarct Dementia,2019,1,104,2,5
-Ornithine Transcarbamylase Deficiency,2019,1,105,4,5
-Asphyxiating Thoracic Dystrophy,2019,1,106,5,5
-Hereditary Fructose Intolerance,2019,1,107,5,5
-Holocarboxylase Synthetase Deficiency,2019,0,108,5,5
-Coronary Artery Ectasia,2019,0,109,1,5
-Severe Congenital Neutropenia,2019,0,110,2,5
-Congenital Hyperinsulinemic Hypoglycemia,2019,0,111,3,5
-X-linked Lymphoproliferative Disease,2019,0,112,4,5
-Silver-Russell Syndrome,2019,0,113,4,5
-β-Ketothiolase Deficiency,2019,0,114,5,5
-Primary Hereditary Dystonia,2019,0,115,5,5
-Tyrosinemia,2019,0,116,5,5
-Lysinuric Protein Intolerance,2019,0,117,5,5
-Medium Chain Acyl-CoA Dehydrogenase Deficiency,2019,0,118,5,5
-N-acetylglutamate Synthase Deficiency,2019,0,119,5,5
-Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2019,0,120,5,5
+disease,year,search_estimated_patients,search_rank
+Albinism,2016,17033,1
+Osteogenesis Imperfecta,2016,15562,2
+Hemophilia,2016,11972,3
+Generalized Myasthenia Gravis,2016,10966,4
+Amyotrophic Lateral Sclerosis,2016,8144,5
+Systemic Sclerosis,2016,7942,6
+Phenylketonuria,2016,5297,7
+Multiple Sclerosis,2016,2049,8
+Hepatolenticular Degeneration,2016,1996,9
+Retinitis Pigmentosa,2016,1747,10
+Cardiac Ion Channelopathies,2016,1688,11
+Progressive Muscular Dystrophy,2016,1580,12
+Sickle Cell Disease,2016,1223,13
+Retinoblastoma,2016,1056,14
+Porphyria,2016,1038,15
+Langerhans Cell Histiocytosis,2016,989,16
+Autoimmune Insulin Receptopathy,2016,841,17
+Idiopathic Pulmonary Arterial Hypertension,2016,746,18
+Glutaric Acidemia Type I,2016,712,19
+Autoimmune Encephalitis,2016,627,20
+Laron Syndrome,2016,595,21
+Neuromyelitis Optica,2016,575,22
+Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2016,561,23
+Methylmalonic Acidemia,2016,487,24
+Mucopolysaccharidosis,2016,466,25
+Multiple System Atrophy,2016,393,26
+Paroxysmal Nocturnal Hemoglobinuria,2016,387,27
+Tuberous Sclerosis Complex,2016,376,28
+Nonsyndromic Deafness,2016,373,29
+Congenital Scoliosis,2016,348,30
+Marfan Syndrome,2016,341,31
+Mitochondrial Encephalomyopathy,2016,329,32
+Charcot-Marie-Tooth Disease,2016,320,33
+Spinal Muscular Atrophy,2016,301,34
+Gaucher Disease,2016,279,35
+Atypical Hemolytic Uremic Syndrome,2016,265,36
+Hypophosphatemic Rickets,2016,232,37
+Spinal Bulbar Muscular Atrophy,2016,217,38
+Galactosemia,2016,214,39
+Alport Syndrome,2016,200,40
+POEMS Syndrome,2016,193,41
+Prader-Willi Syndrome,2016,171,42
+Pulmonary Alveolar Proteinosis,2016,165,43
+Niemann-Pick Disease,2016,164,44
+Idiopathic Pulmonary Fibrosis,2016,154,45
+Castleman Disease,2016,151,46
+Lymphangioleiomyomatosis,2016,146,47
+Homozygous Familial Hypercholesterolemia,2016,123,48
+Primary Combined Immunodeficiency,2016,113,49
+Peutz-Jeghers Syndrome,2016,105,50
+X-linked Adrenoleukodystrophy,2016,95,51
+IgG4 Related Disease,2016,85,52
+Huntington’s Disease,2016,83,53
+Fabry Disease,2016,80,54
+Neonatal Diabetes Mellitus,2016,75,55
+Myotonic Dystrophy,2016,72,56
+Spinocerebellar Ataxia,2016,71,57
+Fanconi Anemia,2016,63,58
+Angelman Syndrome,2016,62,59
+Isovaleric Acidemia,2016,49,60
+Propionic Acidemia,2016,48,61
+Kallmann Syndrome,2016,47,62
+Severe Myoclonic Epilepsy in Infancy,2016,44,63
+Primary Carnitine Deficiency,2016,43,64
+X-linked Agammaglobulinemia,2016,39,65
+Glycogen Storage Disease(Type I，II),2016,36,66
+Congenital Myotonia ,2016,36,67
+Inborn Errors of Bile Acid Synthesis,2016,34,68
+Arginase Deficiency,2016,34,69
+Hereditary Spastic Paraplegia,2016,33,70
+Citrullinemia,2016,33,71
+Maple Syrup Urine Disease,2016,32,72
+Hyperphenylalaninemia,2016,31,73
+21-Hydroxylase Deficiency,2016,28,74
+Hereditary Angioedema,2016,25,75
+Gitelman Syndrome,2016,22,76
+Multifocal Motor Neuropathy,2016,20,77
+Pulmonary Cystic Fibrosis,2016,18,78
+β-Ketothiolase Deficiency,2016,17,79
+Noonan Syndrome,2016,17,80
+Congenital Myasthenic Syndrome,2016,14,81
+Williams Syndrome,2016,11,82
+Congenital Adrenal Hypoplasia,2016,8,83
+Erdheim-Chester Disease,2016,8,84
+"Parkinson’s Disease (Young-onset, Early-onset)",2016,7,85
+Hereditary Epidermolysis Bullosa,2016,7,86
+Biotinidase Deficiency,2016,6,87
+Tetrahydrobiopterin Deficiency,2016,6,88
+Idiopathic Cardiomyopathy,2016,5,89
+Leber Hereditary Optic Neuropathy,2016,5,90
+Wiskott-Aldrich Syndrome,2016,5,91
+Hypophosphatasia,2016,4,92
+Idiopathic Hypogonadotropic Hypogonadism,2016,3,93
+Lysosomal Acid Lipase Deficiency,2016,3,94
+Ornithine Transcarbamylase Deficiency,2016,3,95
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2016,3,96
+Diamond-Blackfan Anemia,2016,2,97
+Autoimmune Hypophysitis,2016,2,98
+Progressive Familial Intrahepatic Cholestasis,2016,2,99
+Multiple Acyl-CoA Dehydrogenase Deficiency,2016,2,100
+Primary Light Chain Amyloidosis,2016,1,101
+McCune-Albright Syndrome,2016,1,102
+Sitosterolemia,2016,1,103
+Familial Mediterranean Fever,2016,1,104
+Hereditary Fructose Intolerance,2016,1,105
+N-acetylglutamate Synthase Deficiency,2016,1,106
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,2016,1,107
+Holocarboxylase Synthetase Deficiency,2016,0,108
+Coronary Artery Ectasia,2016,0,109
+Severe Congenital Neutropenia,2016,0,110
+Congenital Hyperinsulinemic Hypoglycemia,2016,0,111
+Hereditary Hypomagnesemia,2016,0,112
+Primary Hereditary Dystonia,2016,0,113
+Hereditary Multi-infarct Dementia,2016,0,114
+Silver-Russell Syndrome,2016,0,115
+Tyrosinemia,2016,0,116
+X-linked Lymphoproliferative Disease,2016,0,117
+Asphyxiating Thoracic Dystrophy,2016,0,118
+Lysinuric Protein Intolerance,2016,0,119
+Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2016,0,120
+Albinism,2017,21588,1
+Hemophilia,2017,15821,2
+Generalized Myasthenia Gravis,2017,13583,3
+Osteogenesis Imperfecta,2017,12565,4
+Amyotrophic Lateral Sclerosis,2017,10627,5
+Systemic Sclerosis,2017,9608,6
+Phenylketonuria,2017,6486,7
+Hepatolenticular Degeneration,2017,3182,8
+Retinitis Pigmentosa,2017,2854,9
+Cardiac Ion Channelopathies,2017,2827,10
+Multiple Sclerosis,2017,2430,11
+Progressive Muscular Dystrophy,2017,1944,12
+Idiopathic Pulmonary Arterial Hypertension,2017,1868,13
+Porphyria,2017,1866,14
+Retinoblastoma,2017,1747,15
+Sickle Cell Disease,2017,1487,16
+Neuromyelitis Optica,2017,1292,17
+Autoimmune Encephalitis,2017,1261,18
+Langerhans Cell Histiocytosis,2017,991,19
+Glutaric Acidemia Type I,2017,886,20
+Autoimmune Insulin Receptopathy,2017,830,21
+Laron Syndrome,2017,740,22
+Mucopolysaccharidosis,2017,711,23
+Multiple System Atrophy,2017,659,24
+Methylmalonic Acidemia,2017,654,25
+Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2017,605,26
+Tuberous Sclerosis Complex,2017,517,27
+Marfan Syndrome,2017,483,28
+Spinal Muscular Atrophy,2017,464,29
+Paroxysmal Nocturnal Hemoglobinuria,2017,462,30
+Gaucher Disease,2017,462,31
+Mitochondrial Encephalomyopathy,2017,460,32
+Congenital Scoliosis,2017,445,33
+Nonsyndromic Deafness,2017,361,34
+Hypophosphatemic Rickets,2017,334,35
+Prader-Willi Syndrome,2017,260,36
+Alport Syndrome,2017,260,37
+Atypical Hemolytic Uremic Syndrome,2017,258,38
+Galactosemia,2017,250,39
+POEMS Syndrome,2017,249,40
+Spinal Bulbar Muscular Atrophy,2017,234,41
+Charcot-Marie-Tooth Disease,2017,224,42
+Lymphangioleiomyomatosis,2017,219,43
+Niemann-Pick Disease,2017,216,44
+Pulmonary Alveolar Proteinosis,2017,208,45
+Idiopathic Pulmonary Fibrosis,2017,184,46
+Huntington’s Disease,2017,171,47
+Myotonic Dystrophy,2017,167,48
+Castleman Disease,2017,166,49
+Peutz-Jeghers Syndrome,2017,150,50
+Angelman Syndrome,2017,148,51
+X-linked Adrenoleukodystrophy,2017,144,52
+Primary Combined Immunodeficiency,2017,137,53
+Homozygous Familial Hypercholesterolemia,2017,123,54
+Fanconi Anemia,2017,109,55
+Neonatal Diabetes Mellitus,2017,99,56
+Spinocerebellar Ataxia,2017,98,57
+Propionic Acidemia,2017,94,58
+Primary Carnitine Deficiency,2017,84,59
+Glycogen Storage Disease(Type I，II),2017,79,60
+Fabry Disease,2017,77,61
+Hereditary Spastic Paraplegia,2017,73,62
+Citrullinemia,2017,67,63
+Kallmann Syndrome,2017,62,64
+Arginase Deficiency,2017,59,65
+Hyperphenylalaninemia,2017,55,66
+Severe Myoclonic Epilepsy in Infancy,2017,49,67
+Congenital Myotonia ,2017,49,68
+Hereditary Angioedema,2017,43,69
+X-linked Agammaglobulinemia,2017,42,70
+IgG4 Related Disease,2017,41,71
+21-Hydroxylase Deficiency,2017,39,72
+Inborn Errors of Bile Acid Synthesis,2017,38,73
+Isovaleric Acidemia,2017,36,74
+Maple Syrup Urine Disease,2017,36,75
+Multifocal Motor Neuropathy,2017,32,76
+Noonan Syndrome,2017,28,77
+Williams Syndrome,2017,25,78
+Pulmonary Cystic Fibrosis,2017,22,79
+Gitelman Syndrome,2017,21,80
+Wiskott-Aldrich Syndrome,2017,19,81
+Hereditary Epidermolysis Bullosa,2017,17,82
+Multiple Acyl-CoA Dehydrogenase Deficiency,2017,14,83
+Familial Mediterranean Fever,2017,13,84
+Tetrahydrobiopterin Deficiency,2017,11,85
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,2017,11,86
+"Parkinson’s Disease (Young-onset, Early-onset)",2017,10,87
+Erdheim-Chester Disease,2017,10,88
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2017,9,89
+Idiopathic Cardiomyopathy,2017,8,90
+Sitosterolemia,2017,8,91
+Biotinidase Deficiency,2017,7,92
+Idiopathic Hypogonadotropic Hypogonadism,2017,7,93
+Primary Light Chain Amyloidosis,2017,7,94
+Congenital Myasthenic Syndrome,2017,7,95
+Congenital Adrenal Hypoplasia,2017,7,96
+Leber Hereditary Optic Neuropathy,2017,6,97
+Diamond-Blackfan Anemia,2017,6,98
+Progressive Familial Intrahepatic Cholestasis,2017,5,99
+Ornithine Transcarbamylase Deficiency,2017,4,100
+Autoimmune Hypophysitis,2017,3,101
+Lysosomal Acid Lipase Deficiency,2017,3,102
+Hereditary Hypomagnesemia,2017,1,103
+β-Ketothiolase Deficiency,2017,1,104
+Hypophosphatasia,2017,1,105
+Hereditary Fructose Intolerance,2017,1,106
+Holocarboxylase Synthetase Deficiency,2017,0,107
+Coronary Artery Ectasia,2017,0,108
+Severe Congenital Neutropenia,2017,0,109
+Congenital Hyperinsulinemic Hypoglycemia,2017,0,110
+McCune-Albright Syndrome,2017,0,111
+Hereditary Multi-infarct Dementia,2017,0,112
+Primary Hereditary Dystonia,2017,0,113
+X-linked Lymphoproliferative Disease,2017,0,114
+Silver-Russell Syndrome,2017,0,115
+Tyrosinemia,2017,0,116
+N-acetylglutamate Synthase Deficiency,2017,0,117
+Lysinuric Protein Intolerance,2017,0,118
+Asphyxiating Thoracic Dystrophy,2017,0,119
+Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2017,0,120
+Albinism,2018,21658,1
+Hemophilia,2018,15445,2
+Generalized Myasthenia Gravis,2018,14368,3
+Osteogenesis Imperfecta,2018,9753,4
+Amyotrophic Lateral Sclerosis,2018,8632,5
+Systemic Sclerosis,2018,7064,6
+Phenylketonuria,2018,5608,7
+Multiple Sclerosis,2018,2391,8
+Hepatolenticular Degeneration,2018,2251,9
+Cardiac Ion Channelopathies,2018,1938,10
+Retinitis Pigmentosa,2018,1917,11
+Porphyria,2018,1840,12
+Niemann-Pick Disease,2018,1663,13
+Autoimmune Encephalitis,2018,1448,14
+Retinoblastoma,2018,1417,15
+Neuromyelitis Optica,2018,1376,16
+Progressive Muscular Dystrophy,2018,1302,17
+Sickle Cell Disease,2018,1284,18
+Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2018,841,19
+Glutaric Acidemia Type I,2018,799,20
+Langerhans Cell Histiocytosis,2018,798,21
+Marfan Syndrome,2018,782,22
+Laron Syndrome,2018,709,23
+Multiple System Atrophy,2018,604,24
+Methylmalonic Acidemia,2018,546,25
+Spinal Muscular Atrophy,2018,517,26
+Tuberous Sclerosis Complex,2018,510,27
+Idiopathic Pulmonary Arterial Hypertension,2018,491,28
+Pulmonary Alveolar Proteinosis,2018,485,29
+Gaucher Disease,2018,472,30
+Autoimmune Insulin Receptopathy,2018,466,31
+Mitochondrial Encephalomyopathy,2018,430,32
+Nonsyndromic Deafness,2018,414,33
+Hypophosphatemic Rickets,2018,379,34
+Mucopolysaccharidosis,2018,367,35
+Congenital Scoliosis,2018,351,36
+Paroxysmal Nocturnal Hemoglobinuria,2018,349,37
+Prader-Willi Syndrome,2018,343,38
+Angelman Syndrome,2018,340,39
+Spinal Bulbar Muscular Atrophy,2018,282,40
+X-linked Adrenoleukodystrophy,2018,269,41
+Alport Syndrome,2018,262,42
+Peutz-Jeghers Syndrome,2018,255,43
+Lymphangioleiomyomatosis,2018,249,44
+Idiopathic Pulmonary Fibrosis,2018,227,45
+Atypical Hemolytic Uremic Syndrome,2018,222,46
+Huntington’s Disease,2018,216,47
+Charcot-Marie-Tooth Disease,2018,210,48
+Galactosemia,2018,198,49
+Castleman Disease,2018,182,50
+Myotonic Dystrophy,2018,160,51
+POEMS Syndrome,2018,156,52
+Kallmann Syndrome,2018,145,53
+Propionic Acidemia,2018,144,54
+Homozygous Familial Hypercholesterolemia,2018,139,55
+Primary Combined Immunodeficiency,2018,124,56
+Fanconi Anemia,2018,109,57
+Hereditary Spastic Paraplegia,2018,95,58
+Glycogen Storage Disease(Type I，II),2018,93,59
+Noonan Syndrome,2018,93,60
+Neonatal Diabetes Mellitus,2018,87,61
+Fabry Disease,2018,78,62
+Gitelman Syndrome,2018,75,63
+Isovaleric Acidemia,2018,75,64
+Primary Carnitine Deficiency,2018,73,65
+Citrullinemia,2018,70,66
+Williams Syndrome,2018,65,67
+Hyperphenylalaninemia,2018,62,68
+Maple Syrup Urine Disease,2018,51,69
+21-Hydroxylase Deficiency,2018,50,70
+Spinocerebellar Ataxia,2018,49,71
+Hereditary Angioedema,2018,39,72
+Severe Myoclonic Epilepsy in Infancy,2018,37,73
+Congenital Myotonia ,2018,37,74
+Sitosterolemia,2018,33,75
+Arginase Deficiency,2018,33,76
+Inborn Errors of Bile Acid Synthesis,2018,31,77
+Multifocal Motor Neuropathy,2018,28,78
+X-linked Agammaglobulinemia,2018,26,79
+IgG4 Related Disease,2018,24,80
+Ornithine Transcarbamylase Deficiency,2018,23,81
+Familial Mediterranean Fever,2018,22,82
+Pulmonary Cystic Fibrosis,2018,21,83
+Multiple Acyl-CoA Dehydrogenase Deficiency,2018,19,84
+"Parkinson’s Disease (Young-onset, Early-onset)",2018,15,85
+Wiskott-Aldrich Syndrome,2018,15,86
+Congenital Myasthenic Syndrome,2018,13,87
+Erdheim-Chester Disease,2018,13,88
+Tetrahydrobiopterin Deficiency,2018,11,89
+Hypophosphatasia,2018,11,90
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2018,8,91
+N-acetylglutamate Synthase Deficiency,2018,8,92
+Diamond-Blackfan Anemia,2018,6,93
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,2018,6,94
+Biotinidase Deficiency,2018,5,95
+Idiopathic Cardiomyopathy,2018,5,96
+Leber Hereditary Optic Neuropathy,2018,4,97
+Hereditary Epidermolysis Bullosa,2018,3,98
+Primary Light Chain Amyloidosis,2018,3,99
+Autoimmune Hypophysitis,2018,3,100
+Congenital Adrenal Hypoplasia,2018,3,101
+Progressive Familial Intrahepatic Cholestasis,2018,3,102
+Hereditary Fructose Intolerance,2018,3,103
+Asphyxiating Thoracic Dystrophy,2018,2,104
+Idiopathic Hypogonadotropic Hypogonadism,2018,1,105
+Hereditary Hypomagnesemia,2018,1,106
+Hereditary Multi-infarct Dementia,2018,1,107
+Lysosomal Acid Lipase Deficiency,2018,1,108
+Holocarboxylase Synthetase Deficiency,2018,0,109
+Coronary Artery Ectasia,2018,0,110
+Severe Congenital Neutropenia,2018,0,111
+Congenital Hyperinsulinemic Hypoglycemia,2018,0,112
+McCune-Albright Syndrome,2018,0,113
+Primary Hereditary Dystonia,2018,0,114
+X-linked Lymphoproliferative Disease,2018,0,115
+Silver-Russell Syndrome,2018,0,116
+β-Ketothiolase Deficiency,2018,0,117
+Tyrosinemia,2018,0,118
+Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2018,0,119
+Lysinuric Protein Intolerance,2018,0,120
+Albinism,2019,26222,1
+Hemophilia,2019,17425,2
+Generalized Myasthenia Gravis,2019,13827,3
+Osteogenesis Imperfecta,2019,9335,4
+Amyotrophic Lateral Sclerosis,2019,8605,5
+Systemic Sclerosis,2019,7923,6
+Marfan Syndrome,2019,7141,7
+Phenylketonuria,2019,6777,8
+Porphyria,2019,3429,9
+Multiple Sclerosis,2019,2669,10
+Multiple System Atrophy,2019,2482,11
+Cardiac Ion Channelopathies,2019,2177,12
+Hepatolenticular Degeneration,2019,2016,13
+Retinitis Pigmentosa,2019,1906,14
+Idiopathic Pulmonary Arterial Hypertension,2019,1794,15
+Sickle Cell Disease,2019,1718,16
+Neuromyelitis Optica,2019,1670,17
+Retinoblastoma,2019,1471,18
+Progressive Muscular Dystrophy,2019,1456,19
+Langerhans Cell Histiocytosis,2019,1355,20
+Autoimmune Encephalitis,2019,1220,21
+Glutaric Acidemia Type I,2019,923,22
+Spinal Muscular Atrophy,2019,808,23
+Laron Syndrome,2019,778,24
+Gaucher Disease,2019,750,25
+Methylmalonic Acidemia,2019,697,26
+Mucopolysaccharidosis,2019,694,27
+Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria Syndrome,2019,650,28
+Paroxysmal Nocturnal Hemoglobinuria,2019,550,29
+Autoimmune Insulin Receptopathy,2019,541,30
+Nonsyndromic Deafness,2019,490,31
+Tuberous Sclerosis Complex,2019,448,32
+Mitochondrial Encephalomyopathy,2019,421,33
+Hypophosphatemic Rickets,2019,417,34
+Peutz-Jeghers Syndrome,2019,403,35
+Congenital Scoliosis,2019,400,36
+Prader-Willi Syndrome,2019,397,37
+Alport Syndrome,2019,337,38
+Idiopathic Pulmonary Fibrosis,2019,306,39
+Galactosemia,2019,297,40
+Glycogen Storage Disease(Type I，II),2019,291,41
+Lymphangioleiomyomatosis,2019,255,42
+Angelman Syndrome,2019,252,43
+Fanconi Anemia,2019,250,44
+Spinal Bulbar Muscular Atrophy,2019,235,45
+Homozygous Familial Hypercholesterolemia,2019,223,46
+Huntington’s Disease,2019,216,47
+Pulmonary Alveolar Proteinosis,2019,211,48
+Atypical Hemolytic Uremic Syndrome,2019,204,49
+POEMS Syndrome,2019,202,50
+X-linked Adrenoleukodystrophy,2019,186,51
+Kallmann Syndrome,2019,173,52
+Charcot-Marie-Tooth Disease,2019,165,53
+Primary Combined Immunodeficiency,2019,152,54
+Castleman Disease,2019,151,55
+Niemann-Pick Disease,2019,147,56
+Fabry Disease,2019,120,57
+Propionic Acidemia,2019,114,58
+Williams Syndrome,2019,109,59
+Noonan Syndrome,2019,103,60
+Citrullinemia,2019,90,61
+Myotonic Dystrophy,2019,85,62
+Hereditary Angioedema,2019,84,63
+Primary Carnitine Deficiency,2019,83,64
+Neonatal Diabetes Mellitus,2019,82,65
+Hereditary Spastic Paraplegia,2019,78,66
+21-Hydroxylase Deficiency,2019,75,67
+Isovaleric Acidemia,2019,70,68
+Hyperphenylalaninemia,2019,62,69
+Congenital Myotonia ,2019,55,70
+Gitelman Syndrome,2019,54,71
+Arginase Deficiency,2019,53,72
+Maple Syrup Urine Disease,2019,50,73
+Severe Myoclonic Epilepsy in Infancy,2019,46,74
+IgG4 Related Disease,2019,35,75
+Pulmonary Cystic Fibrosis,2019,28,76
+"Parkinson’s Disease (Young-onset, Early-onset)",2019,26,77
+X-linked Agammaglobulinemia,2019,25,78
+Inborn Errors of Bile Acid Synthesis,2019,22,79
+Familial Mediterranean Fever,2019,21,80
+Idiopathic Cardiomyopathy,2019,17,81
+Congenital Adrenal Hypoplasia,2019,16,82
+Spinocerebellar Ataxia,2019,15,83
+Congenital Myasthenic Syndrome,2019,15,84
+Multifocal Motor Neuropathy,2019,14,85
+Hypophosphatasia,2019,13,86
+Sitosterolemia,2019,12,87
+Multiple Acyl-CoA Dehydrogenase Deficiency,2019,12,88
+Diamond-Blackfan Anemia,2019,10,89
+Progressive Familial Intrahepatic Cholestasis,2019,8,90
+Erdheim-Chester Disease,2019,7,91
+Primary Light Chain Amyloidosis,2019,6,92
+Biotinidase Deficiency,2019,6,93
+Wiskott-Aldrich Syndrome,2019,6,94
+Hereditary Epidermolysis Bullosa,2019,5,95
+Idiopathic Hypogonadotropic Hypogonadism,2019,5,96
+Autoimmune Hypophysitis,2019,4,97
+Tetrahydrobiopterin Deficiency,2019,4,98
+Very Long Chain Acyl-CoA Dehydrogenase Deficiency,2019,4,99
+Lysosomal Acid Lipase Deficiency,2019,4,100
+Leber Hereditary Optic Neuropathy,2019,3,101
+McCune-Albright Syndrome,2019,2,102
+Hereditary Hypomagnesemia,2019,1,103
+Hereditary Multi-infarct Dementia,2019,1,104
+Ornithine Transcarbamylase Deficiency,2019,1,105
+Asphyxiating Thoracic Dystrophy,2019,1,106
+Hereditary Fructose Intolerance,2019,1,107
+Holocarboxylase Synthetase Deficiency,2019,0,108
+Coronary Artery Ectasia,2019,0,109
+Severe Congenital Neutropenia,2019,0,110
+Congenital Hyperinsulinemic Hypoglycemia,2019,0,111
+X-linked Lymphoproliferative Disease,2019,0,112
+Silver-Russell Syndrome,2019,0,113
+β-Ketothiolase Deficiency,2019,0,114
+Primary Hereditary Dystonia,2019,0,115
+Tyrosinemia,2019,0,116
+Lysinuric Protein Intolerance,2019,0,117
+Medium Chain Acyl-CoA Dehydrogenase Deficiency,2019,0,118
+N-acetylglutamate Synthase Deficiency,2019,0,119
+Long Chain 3-hydroxyacyl-CoA Dehydrogenase Deficiency,2019,0,120
