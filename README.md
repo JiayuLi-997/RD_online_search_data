@@ -1,5 +1,5 @@
 # RD_online_search_data
-Search data and analysis codes for the paper named "Epidemiological research on rare diseases using large-scale online search queries and registry data".
+Search data and analysis codes for the paper named "Epidemiological research on rare diseases using large-scale online search queries and reported case data".
 
 Please cite the paper if you use our datasets or codes.
 '''
